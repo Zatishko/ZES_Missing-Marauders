@@ -1,0 +1,66 @@
+shipyard "Southbound Advanced"
+	"Hauler VI"
+
+ship "Hauler VI"
+	sprite "ship/Hauler VI"
+	thumbnail "thumbnail/Hauler VI"
+	attributes
+		category "Heavy Freighter"
+		"cost" 6520000
+		"shields" 4500
+		"hull" 10200
+		"required crew" 6
+		"bunks" 24
+		"mass" 835
+		"drag" 16
+		"heat dissipation" .6
+		"fuel capacity" 600
+		"cargo space" 780
+		"outfit space" 600
+		"weapon capacity" 210
+		"engine capacity" 110
+		weapon
+			"blast radius" 100
+			"shield damage" 1000
+			"hull damage" 500
+			"hit force" 1500
+	outfits
+		"Meteor Missile Launcher" 4
+		"Meteor Missile" 100
+		"Quad Blaster Turret" 4
+		"Heavy Anti-Missile Turret" 4
+		"Hyperdrive"
+		"S3 Thermionic" 2
+		"LP144a Battery Pack"
+		"D67-TM Shield Generator"
+		"Small Radar Jammer" 2
+		"Laser Rifle" 4
+		"Impala Plasma Thruster"
+		"Impala Plasma Steering"
+		
+
+	engine -45 196.5
+	engine 45 196.5
+	gun -36 -185.5 "Meteor Missile Launcher"
+	gun 36 -185.5 "Meteor Missile Launcher"
+	turret -64 -127 "Quad Blaster Turret"
+	turret 64 -127 "Quad Blaster Turret"
+	turret -57 64 "Heavy Anti-Missile Turret"
+	turret 57 64 "Heavy Anti-Missile Turret"
+	turret -60 7 "Heavy Anti-Missile Turret"
+	turret 60 7 "Heavy Anti-Missile Turret"
+	turret -60 85 "Quad Blaster Turret"
+	turret 60 85 "Quad Blaster Turret"
+	gun -120 180 "Meteor Missile Launcher"
+	gun 120 180 "Meteor Missile Launcher"
+	leak "leak" 50 50
+	leak "flame" 40 80
+	leak "big leak" 80 30
+	explode "small explosion" 30
+	explode "medium explosion" 600
+	explode "large explosion" 40
+	explode "huge explosion" 10
+	"final explode" "final explosion huge"
+	description "Considered by all to be an explosion risk and a huge mistake, never the less some crazy rebuilt it and has it flying somehow."
+
+

@@ -1,0 +1,38 @@
+outfitter "Deep Sky Advanced"
+	"A302 Atomic Thruster"
+	"A402 Atomic Thruster"
+	"A454 Atomic Thruster"
+	"A645 Atomic Thruster"
+	"A704 Atomic Thruster"
+	"A992 Atomic Thruster"
+	"A327 Atomic Steering"
+	"A327 Atomic Steering"
+	"A425 Atomic Steering"
+	"A475 Atomic Steering"
+	"A668 Atomic Steering"
+	"A745 Atomic Steering"
+	"A999 Atomic Steering"
+
+outfitter "Remnant"
+	"Large Bunk Room"
+	"Humungous Bunk Room"
+
+outfit "Large Bunk Room"
+	category "Systems"
+	cost 1600000
+	thumbnail "outfit/bunk room"
+	"mass" 20
+	"bunks" 16
+	"outfit space" -80
+	"unplunderable" 1
+	description "If you really want to make space for enough more passengers (or crew members, or if you're trying to capture other ships), you can expand the living space of your ship into the area usually reserved for outfits."
+
+outfit "Humungous Bunk Room"
+	category "Systems"
+	cost 8000000
+	thumbnail "outfit/humungous bunk room"
+	"mass" 100
+	"bunks" 80
+	"outfit space" -200
+	"unplunderable" 1
+	description "If you really want an army, if you're trying to capture other ships), you can expand the living space of your ship into the area usually reserved for outfits."

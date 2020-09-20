@@ -1,0 +1,396 @@
+shipyard "Southbound Advanced"
+	"Marauder Star Queen"
+	"Marauder Star Queen (afterburner)"
+	"Marauder Star Queen (Engines)"
+	"Marauder Star Queen (Weapons)"
+	"Marauder Star Queen (Reverse Thrust)"
+	"Marauder Star Queen (hai)"
+
+outfitter "Kraz Advanced"
+	"Haiperdrive"
+	"Korath Hyper Drive"
+	"Coalition Hop Drive"
+
+ship "Marauder Star Queen"
+	sprite ship/mstar_queene
+	thumbnail thumbnail/mstar_queene_thumb
+	attributes
+		category Transport
+		cost 8250000
+		shields 4600
+		hull 2450
+		"required crew" 52
+		bunks 126
+		mass 260
+		drag 4.5
+		"heat dissipation" 0.65
+		"fuel capacity" 700
+		"cargo space" 40
+		"outfit space" 405
+		"weapon capacity" 120
+		"engine capacity" 113
+		weapon
+			"blast radius" 65
+			"shield damage" 650
+			"hull damage" 305
+			"hit force" 1000
+	outfits
+		"Large Collector Module"
+		"Luxury Accommodations"
+		"S-270 Regenerator"
+		"Small Radar Jammer" 3
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 90
+		"Particle Cannon" 1
+		"Heavy Anti-Missile Turret" 2
+		Hyperdrive
+		"A375 Atomic Steering"
+		"A370 Atomic Thruster"
+		"Fuel Pod"
+		"LP072a Battery Pack"
+		"nGVF-BB Fuel Cell"
+	engine -18.5 115
+		zoom 1
+		angle 0
+		under
+	engine 18.5 115
+		zoom 1
+		angle 0
+		under
+	gun 0 -113 "Particle Cannon"
+	gun -24 -76 "Sidewinder Missile Launcher"
+	gun 24 -76 "Sidewinder Missile Launcher"
+	turret 0 -71
+	turret -21.5 2.5 "Heavy Anti-Missile Turret"
+	turret 21.5 2.5 "Heavy Anti-Missile Turret"
+	bay Fighter -66 33.5
+		"launch effect" "basic launch"
+		over left
+	bay Drone 66 33.5
+		"launch effect" "basic launch"
+		over right
+	leak leak 50 50
+	leak "big leak" 80 30
+	explode "tiny explosion" 10
+	explode "small explosion" 25
+	explode "medium explosion" 25
+	explode "large explosion" 10
+	"final explode" "final explosion medium" 1
+
+ship "Marauder Star Queen (afterburner)"
+	sprite ship/mstar_queene
+	thumbnail thumbnail/mstar_queene_thumb
+	attributes
+		category Transport
+		cost 8250000
+		shields 4600
+		hull 2450
+		"required crew" 52
+		bunks 126
+		mass 260
+		drag 4.5
+		"heat dissipation" 0.65
+		"fuel capacity" 700
+		"cargo space" 40
+		"outfit space" 405
+		"weapon capacity" 120
+		"engine capacity" 113
+		weapon
+			"blast radius" 65
+			"shield damage" 650
+			"hull damage" 305
+			"hit force" 1000
+	outfits
+		"Dwarf Core"
+		"Afterburner"
+		"Luxury Accommodations"
+		"S-270 Regenerator"
+		"Small Radar Jammer" 3
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 90
+		"Particle Cannon" 1
+		"Heavy Anti-Missile Turret" 2
+		Hyperdrive
+		"A375 Atomic Steering"
+		"A370 Atomic Thruster"
+		"Fuel Pod"
+		"LP072a Battery Pack"
+		"nGVF-BB Fuel Cell"
+	engine -18.5 115
+		zoom 1
+		angle 0
+		under
+	engine 18.5 115
+		zoom 1
+		angle 0
+		under
+	gun 0 -113 "Particle Cannon"
+	gun -24 -76 "Sidewinder Missile Launcher"
+	gun 24 -76 "Sidewinder Missile Launcher"
+	turret 0 -71
+	turret -21.5 2.5 "Heavy Anti-Missile Turret"
+	turret 21.5 2.5 "Heavy Anti-Missile Turret"
+	bay Fighter -66 33.5
+		"launch effect" "basic launch"
+		over left
+	bay Drone 66 33.5
+		"launch effect" "basic launch"
+		over right
+	leak leak 50 50
+	leak "big leak" 80 30
+	explode "tiny explosion" 10
+	explode "small explosion" 25
+	explode "medium explosion" 25
+	explode "large explosion" 10
+	"final explode" "final explosion medium" 1
+
+ship "Marauder Star Queen (Engines)"
+	sprite ship/mstar_queene
+	thumbnail thumbnail/mstar_queene_thumb
+	attributes
+		category Transport
+		cost 8250000
+		shields 4600
+		hull 2450
+		"required crew" 52
+		bunks 126
+		mass 260
+		drag 4.5
+		"heat dissipation" 0.65
+		"fuel capacity" 700
+		"cargo space" 40
+		"outfit space" 405
+		"weapon capacity" 120
+		"engine capacity" 113
+		weapon
+			"blast radius" 65
+			"shield damage" 650
+			"hull damage" 305
+			"hit force" 1000
+	outfits
+		"Luxury Accommodations"
+		"A454 Atomic Thruster"
+		"A475 Atomic Steering"
+		Hyperdrive
+		"S-270 Regenerator"
+		"Sidewinder Missile Launcher" 2
+		"Sidewinder Missile" 90
+		"Particle Cannon" 1
+		"Heavy Anti-Missile Turret" 2
+		"Dwarf Core"
+		"Fuel Pod"
+		"Liquid Nitrogen Cooler"
+		"LP072a Battery Pack"
+		"Small Radar Jammer" 3
+	engine -18.5 115
+		zoom 1
+		angle 0
+		under
+	engine 18.5 115
+		zoom 1
+		angle 0
+		under
+	gun 0 -113 "Particle Cannon"
+	gun -24 -76 "Sidewinder Missile Launcher"
+	gun 24 -76 "Sidewinder Missile Launcher"
+	turret 0 -71
+	turret -21.5 2.5 "Heavy Anti-Missile Turret"
+	turret 21.5 2.5 "Heavy Anti-Missile Turret"
+	leak leak 50 50
+	leak "big leak" 80 30
+	explode "tiny explosion" 10
+	explode "small explosion" 25
+	explode "large explosion" 10
+	explode "medium explosion" 25
+	"final explode" "final explosion medium" 1
+
+ship "Marauder Star Queen (Weapons)"
+	sprite ship/mstar_queene
+	thumbnail thumbnail/mstar_queene_thumb
+	attributes
+		category Transport
+		cost 8250000
+		shields 4600
+		hull 2450
+		"required crew" 52
+		bunks 126
+		mass 260
+		drag 4.5
+		"heat dissipation" 0.65
+		"fuel capacity" 700
+		"cargo space" 40
+		"outfit space" 405
+		"weapon capacity" 120
+		"engine capacity" 113
+		weapon
+			"blast radius" 65
+			"shield damage" 650
+			"hull damage" 305
+			"hit force" 1000
+	add attributes
+		"cargo space" -20
+		"engine capacity" -20
+		"weapon capacity" +40
+	outfits
+		"Dwarf Core"
+		"S-270 Regenerator"
+		"Small Radar Jammer" 3
+		"Sidewinder Missile Launcher" 1
+		"Sidewinder Missile" 45
+		"Laser Turret" 1
+		"Heavy Anti-Missile Turret" 2
+		Hyperdrive
+		"A375 Atomic Steering"
+		"A370 Atomic Thruster"
+		"Particle Cannon" 2
+		"Fuel Pod"
+		"LP072a Battery Pack"
+	bay Fighter -66 33.5
+		"launch effect" "basic launch"
+		over left
+	bay Drone 66 33.5
+		"launch effect" "basic launch"
+		over right
+	engine -18.5 115
+		zoom 1
+		angle 0
+		under
+	engine 18.5 115
+		zoom 1
+		angle 0
+		under
+	gun 0 -113 "Sidewinder Missile Launcher"
+	gun -24 -76 "Particle Cannon"
+	gun 24 -76 "Particle Cannon"
+	turret 0 -71 "Laser Turret"
+	turret -21.5 2.5 "Heavy Anti-Missile Turret"
+	turret 21.5 2.5 "Heavy Anti-Missile Turret"
+	leak leak 50 50
+	leak "big leak" 80 30
+	explode "tiny explosion" 10
+	explode "small explosion" 25
+	explode "large explosion" 10
+	explode "medium explosion" 25
+	"final explode" "final explosion medium" 1
+
+ship "Marauder Star Queen (Reverse Thrust)"
+	sprite ship/mstar_queene
+	thumbnail thumbnail/mstar_queene_thumb
+	attributes
+		category Transport
+		cost 8250000
+		shields 4600
+		hull 2450
+		"required crew" 52
+		bunks 126
+		mass 260
+		drag 4.5
+		"heat dissipation" 0.65
+		"fuel capacity" 700
+		"cargo space" 40
+		"outfit space" 405
+		"weapon capacity" 120
+		"engine capacity" 113
+		weapon
+			"blast radius" 65
+			"shield damage" 650
+			"hull damage" 305
+			"hit force" 1000
+	add attributes
+		"engine capacity" -20
+		"weapon capacity" +22
+	outfits
+		"Large Collector Module"
+		"Luxury Accommodations"
+		"S-270 Regenerator"
+		"Small Radar Jammer" 3
+		"Heavy Anti-Missile Turret" 2
+		Hyperdrive
+		"AR120 Reverse Thruster"
+		"A370 Atomic Thruster"
+		"A375 Atomic Steering"
+		"Particle Cannon" 2
+		"Fuel Pod"
+		"LP036a Battery Pack"
+		"nGVF-BB Fuel Cell"
+	engine -18.5 115
+		zoom 1
+		angle 0
+		under
+	engine 18.5 115
+		zoom 1
+		angle 0
+		under
+	gun 0 -113
+	gun -24 -76 "Particle Cannon"
+	gun 24 -76 "Particle Cannon"
+	turret 0 -71
+	turret -21.5 2.5 "Heavy Anti-Missile Turret"
+	turret 21.5 2.5 "Heavy Anti-Missile Turret"
+	bay Fighter -66 33.5
+		"launch effect" "basic launch"
+	bay Drone 66 33.5
+		"launch effect" "basic launch"
+	leak leak 50 50
+	leak "big leak" 80 30
+	explode "small explosion" 25
+	explode "tiny explosion" 10
+	explode "medium explosion" 25
+	explode "large explosion" 10
+	"final explode" "final explosion medium" 1
+
+ship "Marauder Star Queen (hai)"
+	sprite ship/mstar_queene
+	thumbnail thumbnail/mstar_queene_thumb
+	attributes
+		category Transport
+		cost 5500000
+		mass 260
+		bunks 126
+		"cargo space" 40
+		drag 4.5
+		"engine capacity" 113
+		"fuel capacity" 700
+		"heat dissipation" 0.65
+		hull 2450
+		"outfit space" 405
+		"required crew" 52
+		shields 4600
+		"weapon capacity" 120
+	outfits
+		"Hai Tracker Pod" 3
+		"Chameleon Anti-Missile" 2
+		"Geode Reactor"
+		"Hai Fissure Batteries" 1
+		"Hai Diamond Regenerator"
+		"Hai Williwaw Cooling" 2
+		"Quantum Keystone"
+		"Large Radar Jammer"1
+		"Ramscoop"
+		"Luxury Accommodations"
+		`"Bondir" Atomic Thruster`
+		`"Bondir" Atomic Steering`
+		"Haiperdrive"
+	engine -18.5 115
+		zoom 1
+		angle 0
+		under
+	engine 18.5 115
+		zoom 1
+		angle 0
+		under
+	gun 0 -113 "Hai Tracker Pod"
+	gun -24 -76 "Hai Tracker Pod"
+	gun 24 -76 "Hai Tracker Pod"
+	turret 0 -71
+	turret -21.5 2.5 "Chameleon Anti-Missile"
+	turret 21.5 2.5 "Chameleon Anti-Missile"
+	leak leak 50 50
+	leak "big leak" 80 30
+	explode "tiny explosion" 10
+	explode "small explosion" 25
+	explode "large explosion" 10
+	explode "medium explosion" 25
+	"final explode" "final explosion medium" 1
+
+

@@ -1,0 +1,181 @@
+outfit "A302 Atomic Thruster"
+	category "Engines"
+	"cost" 415000
+	thumbnail "outfit/small atomic thruster"
+	"mass" 44
+	"outfit space" -44
+	"engine capacity" -44
+	"thrust" 37.4
+	"thrusting energy" 4.13
+	"thrusting heat" 8.23
+	"flare sprite" "effect/atomic flare/small"
+		"frame rate" 13
+	"flare sound" "atomic small"
+	description "Deep Sky's atomic thrusters filling in the gap. Worth the price."
+
+outfit "A402 Atomic Thruster"
+	category "Engines"
+	"cost" 823640
+	thumbnail "outfit/medium atomic thruster"
+	"mass" 53
+	"outfit space" -53
+	"engine capacity" -553
+	"thrust" 37.42
+	"thrusting energy" 6.1
+	"thrusting heat" 12.3
+	"flare sprite" "effect/atomic flare/medium"
+		"frame rate" 12
+	"flare sound" "atomic medium"
+	description "Atomic is here for when your ship needs that little extra."
+
+outfit "A454 Atomic Thruster"
+	category "Engines"
+	"cost" 10410000
+	thumbnail "outfit/medium atomic thruster"
+	"mass" 68
+	"outfit space" -68
+	"engine capacity" -68
+	"thrust" 68
+	"thrusting energy" 9.6
+	"thrusting heat" 13.8
+	"flare sprite" "effect/atomic flare/medium"
+		"frame rate" 12
+	"flare sound" "atomic medium"
+	description "To get the full potential out of your medium warship, when it's worth Atomic pricing."
+
+outfit "A645 Atomic Thruster"
+	category "Engines"
+	"cost" 1680000
+	thumbnail "outfit/large atomic thruster"
+	"mass" 105
+	"outfit space" -105
+	"engine capacity" -105
+	"thrust" 125
+	"thrusting energy" 10.19
+	"thrusting heat" 23.18
+	"flare sprite" "effect/atomic flare/large"
+		"frame rate" 11
+	"flare sound" "atomic large"
+	description "The Republic Navy has graciously made the A645 Atomic Thruster available to civilians."
+
+outfit "A704 Atomic Thruster"
+	category "Engines"
+	"cost" 1930590
+	thumbnail "outfit/huge atomic thruster"
+	"mass" 116
+	"outfit space" -116
+	"engine capacity" -116
+	"thrust" 1255
+	"thrusting energy" 13.3
+	"thrusting heat" 29.1
+	"flare sprite" "effect/atomic flare/huge"
+		"frame rate" 10
+	"flare sound" "atomic huge"
+	description "The A704 atomic thruster is the penultimate in size for classified warship technology."
+
+outfit "A992 Atomic Thruster"
+	category "Engines"
+	"cost" 3000000
+	thumbnail "outfit/huge atomic thruster"
+	"mass" 150
+	"outfit space" -150
+	"engine capacity" -150
+	"thrust" 2291
+	"thrusting energy" 21
+	"thrusting heat" 35
+	"flare sprite" "effect/atomic flare/huge"
+		"frame rate" 10
+	"flare sound" "atomic huge"
+	description "You can't have it, it's mine, all mine."
+
+outfit "A327 Atomic Steering"
+	category "Engines"
+	"cost" 300821
+	thumbnail "outfit/small atomic steering"
+	"mass" 32
+	"outfit space" -32
+	"engine capacity" -32
+	"turn" 942
+	"turning energy" 3
+	"turning heat" 5.02
+	"steering flare sprite" "effect/atomic flare/small"
+		"frame rate" 13
+	"steering flare sound" "atomic small"
+	description "If you have exhausted all your other options for making your ship more maneuverable, it may be time to invest in a set of atomic engines."
+
+outfit "A425 Atomic Steering"
+	category "Engines"
+	"cost" 593500
+	thumbnail "outfit/medium atomic steering"
+	"mass" 49
+	"outfit space" -49
+	"engine capacity" -49
+	"turn" 1606
+	"turning energy" 3
+	"turning heat" 8.35
+	"steering flare sprite" "effect/atomic flare/medium"
+		"frame rate" 12
+	"steering flare sound" "atomic medium"
+	description "Bounty hunters and other captains who need to gain a speed advantage over the ships they are pursuing often dream of being able to save up enough money for a set of atomic engines."
+
+outfit "A475 Atomic Steering"
+	category "Engines"
+	"cost" 763410
+	thumbnail "outfit/large atomic steering"
+	"mass" 52
+	"outfit space" -52
+	"engine capacity" -52
+	"turn" 1841
+	"turning energy" 3.
+	"turning heat" 9.5
+	"steering flare sprite" "effect/atomic flare/large"
+		"frame rate" 11
+	"steering flare sound" "atomic large"
+	description "This set of maneuvering thrusters from Deep Sky will allow small warships to turn as fast as a fighter. For larger ships, swapping the existing engines with a set of atomics can free up a considerable amount of space for other outfits or weapons."
+
+outfit "A668 Atomic Steering"
+	category "Engines"
+	"cost" 11189260
+	thumbnail "outfit/huge atomic steering"
+	"mass" 76
+	"outfit space" -76
+	"engine capacity" -76
+	"turn" 3509
+	"turning energy" 5.35
+	"turning heat" 13.89
+	"steering flare sprite" "effect/atomic flare/huge"
+		"frame rate" 10
+	"steering flare sound" "atomic huge"
+	description "Atomic engines are considered by many to be Deep Sky's crowning achievement. Although they are so expensive that relatively few of them are in use, there are few captains who do not dream of one day installing a set of them."
+
+
+outfit "A745 Atomic Steering"
+	category "Engines"
+	"cost" 1398000
+	thumbnail "outfit/huge atomic steering"
+	"mass" 84
+	"outfit space" -84
+	"engine capacity" -84
+	"turn" 3120
+	"turning energy" 5.975
+	"turning heat" 15.67
+	"steering flare sprite" "effect/atomic flare/huge"
+		"frame rate" 10
+	"steering flare sound" "atomic huge"
+	description "Atomic engines are considered by many to be Deep Sky's crowning achievement. Although they are so expensive that relatively few of them are in use, there are few captains who do not dream of one day installing a set of them."
+
+outfit "A999 Atomic Steering"
+	category "Engines"
+	"cost" 21190760
+	thumbnail "outfit/huge atomic steering"
+	"mass" 108
+	"outfit space" -108
+	"engine capacity" -108
+	"turn" 4334
+	"turning energy" 7.85
+	"turning heat" 21.33
+	"steering flare sprite" "effect/atomic flare/huge"
+		"frame rate" 10
+	"steering flare sound" "atomic huge"
+	description "Really Harvey, you can still be fired despite your contract, cease and desist."
+
