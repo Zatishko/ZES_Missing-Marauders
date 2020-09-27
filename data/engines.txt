@@ -1,3 +1,18 @@
+outfit "A4 Atomic Engine"
+	category "Engines"
+	"cost" 44920
+	thumbnail "outfit/small atomic thruster"
+	"mass" 10
+	"outfit space" -10
+	"engine capacity" -10
+	"thrust" 5.97
+	"thrusting energy" 1.2
+	"thrusting heat" 1.38
+	"flare sprite" "effect/atomic flare/small"
+		"frame rate" 16
+	"flare sound" "atomic small"
+	description "Deep Sky's atomic engines for personal suit use, fighters, and extending capacity."
+
 outfit "A302 Atomic Thruster"
 	category "Engines"
 	"cost" 415000
@@ -5,7 +20,7 @@ outfit "A302 Atomic Thruster"
 	"mass" 44
 	"outfit space" -44
 	"engine capacity" -44
-	"thrust" 37.4
+	"thrust" 37.42
 	"thrusting energy" 4.13
 	"thrusting heat" 8.23
 	"flare sprite" "effect/atomic flare/small"
@@ -17,12 +32,12 @@ outfit "A402 Atomic Thruster"
 	category "Engines"
 	"cost" 823640
 	thumbnail "outfit/medium atomic thruster"
-	"mass" 53
-	"outfit space" -53
-	"engine capacity" -553
-	"thrust" 37.42
-	"thrusting energy" 6.1
-	"thrusting heat" 12.3
+	"mass" 68
+	"outfit space" -68
+	"engine capacity" -68
+	"thrust" 64.49
+	"thrusting energy" 6.72
+	"thrusting heat" 13.83
 	"flare sprite" "effect/atomic flare/medium"
 		"frame rate" 12
 	"flare sound" "atomic medium"
@@ -32,12 +47,12 @@ outfit "A454 Atomic Thruster"
 	category "Engines"
 	"cost" 10410000
 	thumbnail "outfit/medium atomic thruster"
-	"mass" 68
-	"outfit space" -68
-	"engine capacity" -68
-	"thrust" 68
-	"thrusting energy" 9.6
-	"thrusting heat" 13.8
+	"mass" 75
+	"outfit space" -75
+	"engine capacity" -75
+	"thrust" 73.02
+	"thrusting energy" 7.5
+	"thrusting heat" 15.58
 	"flare sprite" "effect/atomic flare/medium"
 		"frame rate" 12
 	"flare sound" "atomic medium"
@@ -50,8 +65,8 @@ outfit "A645 Atomic Thruster"
 	"mass" 105
 	"outfit space" -105
 	"engine capacity" -105
-	"thrust" 125
-	"thrusting energy" 10.19
+	"thrust" 110.19
+	"thrusting energy" 10.82
 	"thrusting heat" 23.18
 	"flare sprite" "effect/atomic flare/large"
 		"frame rate" 11
@@ -65,9 +80,9 @@ outfit "A704 Atomic Thruster"
 	"mass" 116
 	"outfit space" -116
 	"engine capacity" -116
-	"thrust" 1255
-	"thrusting energy" 13.3
-	"thrusting heat" 29.1
+	"thrust" 124.66
+	"thrusting energy" 12.05
+	"thrusting heat" 26.1
 	"flare sprite" "effect/atomic flare/huge"
 		"frame rate" 10
 	"flare sound" "atomic huge"
@@ -77,12 +92,12 @@ outfit "A992 Atomic Thruster"
 	category "Engines"
 	"cost" 3000000
 	thumbnail "outfit/huge atomic thruster"
-	"mass" 150
-	"outfit space" -150
-	"engine capacity" -150
-	"thrust" 2291
+	"mass" 149
+	"outfit space" -149
+	"engine capacity" -149
+	"thrust" 171.44
 	"thrusting energy" 21
-	"thrusting heat" 35
+	"thrusting heat" 35.37
 	"flare sprite" "effect/atomic flare/huge"
 		"frame rate" 10
 	"flare sound" "atomic huge"
@@ -90,13 +105,13 @@ outfit "A992 Atomic Thruster"
 
 outfit "A327 Atomic Steering"
 	category "Engines"
-	"cost" 300821
+	"cost" 300820
 	thumbnail "outfit/small atomic steering"
 	"mass" 32
 	"outfit space" -32
 	"engine capacity" -32
-	"turn" 942
-	"turning energy" 3
+	"turn" 941.57
+	"turning energy" 2
 	"turning heat" 5.02
 	"steering flare sprite" "effect/atomic flare/small"
 		"frame rate" 13
@@ -110,7 +125,7 @@ outfit "A425 Atomic Steering"
 	"mass" 49
 	"outfit space" -49
 	"engine capacity" -49
-	"turn" 1606
+	"turn" 1605.61
 	"turning energy" 3
 	"turning heat" 8.35
 	"steering flare sprite" "effect/atomic flare/medium"
@@ -122,11 +137,11 @@ outfit "A475 Atomic Steering"
 	category "Engines"
 	"cost" 763410
 	thumbnail "outfit/large atomic steering"
-	"mass" 52
-	"outfit space" -52
-	"engine capacity" -52
-	"turn" 1841
-	"turning energy" 3.
+	"mass" 55
+	"outfit space" -55
+	"engine capacity" -55
+	"turn" 1840.69
+	"turning energy" 3.5
 	"turning heat" 9.5
 	"steering flare sprite" "effect/atomic flare/large"
 		"frame rate" 11
@@ -156,8 +171,8 @@ outfit "A745 Atomic Steering"
 	"mass" 84
 	"outfit space" -84
 	"engine capacity" -84
-	"turn" 3120
-	"turning energy" 5.975
+	"turn" 3120.4
+	"turning energy" 5.98
 	"turning heat" 15.67
 	"steering flare sprite" "effect/atomic flare/huge"
 		"frame rate" 10
