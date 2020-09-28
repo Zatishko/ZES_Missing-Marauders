@@ -62,12 +62,12 @@ outfit "A645 Atomic Thruster"
 	category "Engines"
 	"cost" 1680000
 	thumbnail "outfit/large atomic thruster"
-	"mass" 105
-	"outfit space" -105
-	"engine capacity" -105
-	"thrust" 110.19
-	"thrusting energy" 10.82
-	"thrusting heat" 23.18
+	"mass" 104
+	"outfit space" -104
+	"engine capacity" -104
+	"thrust" 109.14
+	"thrusting energy" 10.71
+	"thrusting heat" 22.95
 	"flare sprite" "effect/atomic flare/large"
 		"frame rate" 11
 	"flare sound" "atomic large"
@@ -92,12 +92,12 @@ outfit "A992 Atomic Thruster"
 	category "Engines"
 	"cost" 3000000
 	thumbnail "outfit/huge atomic thruster"
-	"mass" 149
-	"outfit space" -149
-	"engine capacity" -149
-	"thrust" 171.44
+	"mass" 150
+	"outfit space" -150
+	"engine capacity" -150
+	"thrust" 172.59
 	"thrusting energy" 21
-	"thrusting heat" 35.37
+	"thrusting heat" 35.6
 	"flare sprite" "effect/atomic flare/huge"
 		"frame rate" 10
 	"flare sound" "atomic huge"

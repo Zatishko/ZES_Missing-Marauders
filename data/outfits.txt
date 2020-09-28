@@ -1,4 +1,5 @@
 outfitter "Deep Sky Advanced"
+	"A4 Atomic Engine"
 	"A302 Atomic Thruster"
 	"A402 Atomic Thruster"
 	"A454 Atomic Thruster"
